@@ -39,4 +39,14 @@ Supported metric kinds are `number`, `integer`, and `duration`. Supported aggreg
 go test ./...
 ```
 
-The product and data-model decisions are recorded in [`docs/architecture.md`](docs/architecture.md).
+The [documentation index](docs/README.md) links the architecture, contributor,
+security, community, and AI-assistance guides. Product and data-model decisions
+are recorded in [`docs/architecture.md`](docs/architecture.md).
+
+Before contributing, read [`CONTRIBUTING.md`](CONTRIBUTING.md). Report security
+issues privately as described in [`SECURITY.md`](SECURITY.md); do not include
+real life-tracking data in public issues, examples, or test fixtures.
+
+## License
+
+YLD is licensed under the [GNU Affero General Public License v3.0](LICENSE.md).
